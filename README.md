@@ -8,4 +8,4 @@ Programa sukuria du naujus dokumentus zodziu_kiekis.txt ir urls.txt
 
 zodziu_kiekis.txt surašomi visi panaudoti žodžiai ir jų panaudojimo kiekis pradiniame dokumente.
 
-urls.txt surašomi visi rąsti URL adresai.
+urls.txt surašomi visi rasti URL adresai.
